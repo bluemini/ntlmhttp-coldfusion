@@ -1,0 +1,5 @@
+C:\Users\nick.harvey\documents\visual studio 2010\Projects\NetHttpRequest\NetHttpRequest\bin\Release\NetHttpRequest.dll
+C:\Users\nick.harvey\documents\visual studio 2010\Projects\NetHttpRequest\NetHttpRequest\bin\Release\NetHttpRequest.pdb
+C:\Users\nick.harvey\documents\visual studio 2010\Projects\NetHttpRequest\NetHttpRequest\obj\Release\ResolveAssemblyReference.cache
+C:\Users\nick.harvey\documents\visual studio 2010\Projects\NetHttpRequest\NetHttpRequest\obj\Release\NetHttpRequest.dll
+C:\Users\nick.harvey\documents\visual studio 2010\Projects\NetHttpRequest\NetHttpRequest\obj\Release\NetHttpRequest.pdb

@@ -1,0 +1,7 @@
+C:\Users\nick.harvey\documents\visual studio 2010\Projects\NetHttpRequest\NetHttpRequestTest\bin\Debug\NetHttpRequestTest.exe
+C:\Users\nick.harvey\documents\visual studio 2010\Projects\NetHttpRequest\NetHttpRequestTest\bin\Debug\NetHttpRequestTest.pdb
+C:\Users\nick.harvey\documents\visual studio 2010\Projects\NetHttpRequest\NetHttpRequestTest\bin\Debug\NetHttpRequest.dll
+C:\Users\nick.harvey\documents\visual studio 2010\Projects\NetHttpRequest\NetHttpRequestTest\bin\Debug\NetHttpRequest.pdb
+C:\Users\nick.harvey\documents\visual studio 2010\Projects\NetHttpRequest\NetHttpRequestTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\nick.harvey\documents\visual studio 2010\Projects\NetHttpRequest\NetHttpRequestTest\obj\x86\Debug\NetHttpRequestTest.exe
+C:\Users\nick.harvey\documents\visual studio 2010\Projects\NetHttpRequest\NetHttpRequestTest\obj\x86\Debug\NetHttpRequestTest.pdb
