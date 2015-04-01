@@ -1,0 +1,1 @@
+ColdFusion doesn't support NTLM (integrated windows authentication) through CFHTTP. However, using this dll you can supply credentials and make HTTP requests to a secured web server from ColdFusion.
